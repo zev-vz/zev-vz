@@ -1,6 +1,6 @@
 ## About me
 - My name is Zev and I'm a junior at Duke, where I'm studying economics, math, and science and society
-- I'm interested in data science and applied economics and want to work in public policy, private philanthropy, or economic consulting
+- I'm interested in innovation, scientice and technology policy and want to work in public policy, private philanthropy, or economic consulting
 
 ## What am I learning?
 - I'm currently getting better at R and Python for Data Science
