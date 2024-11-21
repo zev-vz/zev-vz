@@ -7,7 +7,7 @@
 - I'm also learning more backend web developement (HTML and CSS)
 
 ## 🚀 Projects
-- [Pathways to Policy](https://creative-derby-dab.notion.site/66e370a74e2442689ee0fe72e796bf6a?v=) - Notion-based (but will soon be its own webpage) resource hub for policy-related resources, organizations, and opportunities
+- [Pathways to Policy](https://pathwaystopolicy.notion.site/66e370a74e2442689ee0fe72e796bf6a?v=9c88c99e0a7e435ebcd07298b03d6bc5) - Notion-based (but will soon be its own webpage) resource hub for policy-related resources, organizations, and opportunities
 - [Seeing Progress](link) - A collection of visualizations of key topics in science and technology policy. (Coming Winter 2025)
 
 ## 📫 How to reach me
