@@ -1,10 +1,10 @@
 ## About me
-- My name is Zev and I'm a junior at Duke, where I'm studying economics, math, and science and society
-- I'm interested in innovation, science and technology policy and want to work in public policy, private philanthropy, or economic consulting
+- My name is Zev and I'm a senior at Duke I'm studying economics, statistics, and philosophy, politics, and economics (PPE)
+- I'm interested in data science, innovation, and science and technology policy and want to work in data science, public interest technology, philanthropy, or public policy
 
 ## What am I learning?
-- I'm currently getting better at R and Python for Data Science
-- I'm also learning more backend web developement (JavaScript, HTML, and CSS)
+- I'm currently getting sharpening my R, Stata, and Python skills
+- I'm also starting to learn some backend web developement (JavaScript, HTML, and CSS)
 
 ## 🚀 Projects
 - [Pathways to Policy](https://pathwaystopolicy.notion.site/66e370a74e2442689ee0fe72e796bf6a?v=9c88c99e0a7e435ebcd07298b03d6bc5) - Notion-based (but will soon be its own webpage) resource hub for policy-related resources, organizations, and opportunities
