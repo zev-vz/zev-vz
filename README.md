@@ -1,5 +1,5 @@
 ## About me
-- My name is Zev and I'm a senior at Duke I'm studying economics, statistics, and philosophy, politics, and economics (PPE)
+- My name is Zev and I'm a senior at Duke studying economics, statistics, and philosophy, politics, and economics (PPE)
 - I'm interested in data science, innovation, and science and technology policy and want to work in data science, public interest technology, philanthropy, or public policy
 
 ## What am I learning?
