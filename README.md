@@ -8,7 +8,6 @@
 
 ## 🚀 Projects
 - [Pathways to Policy](https://pathwaystopolicy.notion.site/66e370a74e2442689ee0fe72e796bf6a?v=9c88c99e0a7e435ebcd07298b03d6bc5) - Notion-based (but will soon be its own webpage) resource hub for policy-related resources, organizations, and opportunities
-- [Seeing Progress](link) - A collection of visualizations of key topics in science and technology policy. (Coming Summer 2025)
 
 ## 📫 How to reach me
 - [LinkedIn](https://www.linkedin.com/in/zevvanzanten/)
