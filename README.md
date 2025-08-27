@@ -1,6 +1,6 @@
 ## About me
 - My name is Zev and I'm a senior at Duke studying economics, statistics, and philosophy, politics, and economics (PPE)
-- I'm interested in data science, innovation, and science and technology policy and want to work in data science, public interest technology, philanthropy, or public policy
+- I'm interested in data science, innovation, and science and technology policy and want to work in data science, public interest technology, philanthropy, or strategy/management consulting
 
 ## What am I learning?
 - I'm currently getting sharpening my R, Stata, and Python skills
