@@ -7,20 +7,20 @@
 - I'm also learning backend web developement (JavaScript, HTML, and CSS)
 
 ## 🚀 Projects
-- [Pathways to Policy](https://pathwaystopolicy.notion.site/66e370a74e2442689ee0fe72e796bf6a?v=9c88c99e0a7e435ebcd07298b03d6bc5) - Notion-based (but will soon be its own webpage) resource hub for policy-related resources, organizations, and opportunities
+- [Pathways to Policy](https://github.com/zev-vz/PathwaysToPolicy) - An online resource hub for policy-related resources, organizations, and opportunities built using HTML and CSS
+- [DiamondPriceDashboard](https://github.com/zev-vz/DiamondPriceDashboard) - An interactive RShiny dashboard that allows individuals to input certain details about a prospective diamon and receive back a price prediction and various statistics about similar diamonds
 
 ## 📫 How to reach me
 - [LinkedIn](https://www.linkedin.com/in/zevvanzanten/)
   
 ## 🛠️ Technologies & Tools
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![R](https://img.shields.io/badge/-R-black?style=flat-square&logo=r)
 ![Stata](https://img.shields.io/badge/-Stata-black?style=flat-square&logo=stata)
+![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=sql)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
-![Jupyter](https://img.shields.io/badge/-Jupyter-black?style=flat-square&logo=jupyter)
-<!--
+![HTML](https://img.shields.io/badge/-HTML-black?style=flat-square&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css3)
 **zev-vz/zev-vz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
