@@ -3,8 +3,8 @@
 - I'm interested in data science, innovation, and science and technology policy and want to work in data science, public interest technology, philanthropy, or strategy/management consulting
 
 ## What am I learning?
-- I'm currently getting sharpening my R, Stata, and Python skills
-- I'm also starting to learn some backend web developement (JavaScript, HTML, and CSS)
+- I'm currently learnimg more advanced Python, R, and SQL, primarily in the domains of data science and machine learning
+- I'm also learning backend web developement (JavaScript, HTML, and CSS)
 
 ## 🚀 Projects
 - [Pathways to Policy](https://pathwaystopolicy.notion.site/66e370a74e2442689ee0fe72e796bf6a?v=9c88c99e0a7e435ebcd07298b03d6bc5) - Notion-based (but will soon be its own webpage) resource hub for policy-related resources, organizations, and opportunities
