@@ -21,4 +21,3 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![HTML](https://img.shields.io/badge/-HTML-black?style=flat-square&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css3)
-**zev-vz/zev-vz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
