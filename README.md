@@ -8,7 +8,7 @@
 
 ## 🚀 Projects
 - [Pathways to Policy](https://github.com/zev-vz/PathwaysToPolicy) - An online resource hub for policy-related resources, organizations, and opportunities built using HTML and CSS
-- [DiamondPriceDashboard](https://github.com/zev-vz/DiamondPriceDashboard) - An interactive RShiny dashboard that allows individuals to input certain details about a prospective diamon and receive back a price prediction and various statistics about similar diamonds
+- [DiamondPriceDashboard](https://github.com/zev-vz/DiamondPriceDashboard) - An interactive RShiny dashboard that allows individuals to input certain details about a prospective diamond and receive back a price prediction and various statistics about similar diamonds
 
 ## 📫 How to reach me
 - [LinkedIn](https://www.linkedin.com/in/zevvanzanten/)
